@@ -1,0 +1,18 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+
+What new skills have you learned?
+	- How to properly format lines of HTML
+	- Where to research proper use of HTML tags
+What has been easy?
+	- Remembering the begenning and ending tags of elements
+What has been difficult?
+	- The exact syntax of the anchor tag and the image reference
+How have you used the problem solving strategies from the first project to overcome challenges so far?
+	- Using the Mozilla GTML elements reference has been incredibly helpful so far. I'm sure it is a resource I will keep going back to.
